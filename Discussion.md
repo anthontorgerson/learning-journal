@@ -11,7 +11,7 @@ Markdown is a computer language or coding, used to generate html files. With thi
 
 Markdown is easy to learn and a great tool to use for creating websites, applications and more. A website that is convenient to use for applying markdown is Github, where you can create repositories to add markdown files, type out your syntax/text and preview or share your html file afterwards.
 
-[If you would like to know more about markdown, click here!](/https://guides.github.com/features/mastering-markdown/)
+[If you would like to know more about markdown, click here!](https://guides.github.com/features/mastering-markdown/)
 
 
 - [Return To Home - 102](/README.md)
