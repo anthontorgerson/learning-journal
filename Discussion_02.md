@@ -57,11 +57,11 @@ Important things to remember about files:
 * Linux is an extensionless system; files can have any extension they want or none at all.
 * Linux is case sensitive; avoid typos!
 
-[If you would like to know more about Command Lines, click here!](/https://ryanstutorials.net/linuxtutorial/commandline.php)
+[If you would like to know more about Command Lines, click here!](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-[If you would like to know more about Basic Navigation, click here!](/https://ryanstutorials.net/linuxtutorial/navigation.php)
+[If you would like to know more about Basic Navigation, click here!](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
-[If you would like to know more about Files, click here!](/https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[If you would like to know more about Files, click here!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
 - [Return To Home - 102](/README.md)
