@@ -4,41 +4,6 @@ There are 3 languages used to program web pages: HTML, CSS & Javascript. HTML is
 
 Javascript files are generally kept in their own js file & have a .js extention at the end of the file name. To use a javascript with a web page, you use the `<script>` element in the HTML file to tell the browser it's reading a script. It's "src" attribute tells where it is stored.
 
-#### Javascript example:
-
-`var today = new Date();`
-`var hourNow = today.getHours();`
-`var greeting;`
-
-`if (hourNow > 18) {`
-`    greeting = 'Good evening!';`
-`} else if (hourNow > 12) {`
-`    greeting = 'Good afternoon!';`
-`} else if (hourNow > 0) {`
-`    greeting = 'Good morning!';`
-`} else {`
-`    greeting = 'Welcome!';`
-`}`
-
-`document.write('<h3>' + greeting + '</h3>');`
-
-#### HTML including javascript source:
-
-`<!DOCTYPE html>`
-`<html>`
-`    <head>`
-`        <title>Constructive &amp; Co.</title>`
-`        <link rel="stylesheet" href="css/index.css"/>`
-`    </head>`
-`    <body>`
-`        <h1>Constructive &amp; Co.</h1>`
-        **`<script src="js/add-content.js"></script>`**
-`        <p>For all orders and inquiries please call`
-`            <em>555-3344</em></p>`
-`    </body>`
-`</html>`
-
-
 Javascript can be added between two script tags, but that could also slow down your page, so that it why is it better to be kept in a separate file that the script tags on your html page just link to.
 
 
