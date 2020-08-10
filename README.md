@@ -14,3 +14,4 @@ Table of Contents
 - [Read and Discussion Assignment from Class 3 - 102](/Discussion_03.md)
 - [Read and Discussion Assignment from Class 4 - 102](/Discussion_04.md)
 - [Read and Discussion Assignment from Class 5 - 102](/DESIGN_WEBPAGES_WITH_CSS.md)
+- [Read and Discussion Assignment from Class 6 - 102](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
