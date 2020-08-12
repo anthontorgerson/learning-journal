@@ -17,3 +17,4 @@ Table of Contents
 - [Read and Discussion Assignment from Class 6a - 102](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [Read and Discussion Assignment from Class 6b - 102](/COMPUTER_ARCHITECTURE_AND_LOGIC.md)
 - [Read and Discussion Assignment from Class 7 - 102](/PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Read and Discussion Assignment from Class 8 - 102](/OPERATORS_AND_LOOPS.md)
