@@ -29,7 +29,7 @@ There are 3 common types of loops:
 - **Do While** loops: Very similar to the while loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition is false. 
  
  A for loop uses a counter as a condition. This instructs the code to run a specified number of times. The condition is made up of 3 statements:
- - **Initialization**: crieate a variable and set it to 0. The variable is commonly called **i**(sometimes called index) and it acts as the counter. Ex: `var i = 0;`. The variable is only created the first time the it is run.
+ - **Initialization**: create a variable and set it to 0. The variable is commonly called **i**(sometimes called index) and it acts as the counter. Ex: `var i = 0;`. The variable is only created the first time the it is run.
  - **Condition**: The counter should run until it reaches a specified number. Ex. `i < 10;`. If the value was initially set at 0 it will run 10 times before stopping. 
  - **Update**: Every time the loop has run the statements in the curly braces, it adds one to the counter. Ex `i++`. One is added to the counter using the increment (++) operator. It is also possible for loops to count downwards using the decrement operator(--).
 
