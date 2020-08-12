@@ -3,7 +3,7 @@
 Cascading Style Sheets (CSS) is a programming language used to add or modify how elements in a webpage should appear. For example, you could specify that you want a blue background and for all paragraphs to appear in red with New Times Roman font. CSS works by associating rules with HTML elements & contains a *selector* and a *declaration*.
 
 p {
-    font family: New Times Roman;}
+    font family: New Times Roman;
 }
 
 - *Selectors* indicate which element the rule applies to; the same rule can apply to various elements by separating the element names with commas. Shown above, the selector would be p or `<p></p>`.
