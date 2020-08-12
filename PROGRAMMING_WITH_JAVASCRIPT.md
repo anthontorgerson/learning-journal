@@ -6,7 +6,7 @@ JavaScript can be used to make websites mroe interactive. You can use JavaScript
 
 A script is a series of instructions that a computer can follow to achieve a goal. When writing a script you need to first state your goal and then list the tasks that need to be completed in order to achieve it. Start with the big picture of what you want to achieve and then break it down into smaller steps. You should define your goal, design the script, and then code each part. 
 
-Remember that computers solve problems programmatically; they follow a series of instructions, one after another. 
+Remember that computers solve problems programmatically; they follow a series of instructions, one after another.
 
 
 ### Chapter 2:Basic JavaScript Instructions (pages 74-79)
